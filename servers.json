@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "mopaki-anisette",
+            "address": "https://anisette-v3-server-rf88.onrender.com"
+        }
+    ]
+}
